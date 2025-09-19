@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\models\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\jayaveerapandian\\desktop\\dotnet project\\crud with mvc and ef\\studentportal\\studentportal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218E4831-BC51-43DF-B9B3-88099936A713}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T07:08:28.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:07:27.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:29:41.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Models\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Models\\Entity\\Student.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\Entity\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:44:05.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T16:36:23.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:35:13.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T08:33:18.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T07:26:53.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:59:59.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T06:55:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jayaveerapandian\\Desktop\\dotnet project\\CRUD WITH MVC AND EF\\StudentPortal\\StudentPortal.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:12:51.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

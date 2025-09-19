@@ -1,0 +1,33 @@
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET
+wwwroot/
+
+# Others
+*.log
+*.exe
+*.dll
+*.pdb
+
+# Rider IDE
+.idea/
+
+# SQL Server files
+*.mdf
+*.ldf
